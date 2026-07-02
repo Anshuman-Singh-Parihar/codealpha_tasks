@@ -112,7 +112,7 @@ sales-prediction-using-linear-regression/
 Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/sales-prediction-using-linear-regression.git
+git clone https://github.com/Anshuman-Singh-Parihar/codealpha_tasks.git
 ```
 
 Install the required libraries:
