@@ -66,21 +66,21 @@ A data analysis project that explores unemployment trends in India using Python.
 ```text
 Codealpha_tasks/
 │
-├── Sales_Prediction/
+├── Sales_Prediction_using_python/
 │   ├── main.ipynb
 │   ├── README.md
 │   ├── requirements.txt
 │   ├── advertising.csv
 │   └── images/
 │
-├── Car_Price_Prediction/
+├── Car_Price_Prediction_with_Machine_Learning/
 │   ├── main.ipynb
 │   ├── README.md
 │   ├── requirements.txt
 │   ├── car.csv
 │   └── images/
 │
-├── Unemployment_Analysis/
+├── Unemployment_Analysis_with_python/
 │   ├── main.ipynb
 │   ├── README.md
 │   ├── requirements.txt
