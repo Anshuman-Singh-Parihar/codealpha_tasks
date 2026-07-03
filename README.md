@@ -112,6 +112,6 @@ Through these projects, I gained practical experience in:
 
 ## Author
 
-**Ansh Singh**
+**Anshuman Singh**
 
-BCA Student | Python | Data Analytics | Machine Learning
+BCA Student | Python | Data Analytics | Machine Learning with AI
